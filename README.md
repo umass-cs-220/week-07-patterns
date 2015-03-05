@@ -13,8 +13,15 @@ and understanding design patterns will make you a more effective
 programmer and provide insight into flexible design and software
 systems that are more extensible, easier to program, and debug.
 
+*To get access to this material [download][zip] the zip archive.*
+
+[zip]: https://github.com/umass-cs-220/week-07-patterns/archive/master.zip
+
 ## Readings
 
 * [Observer Pattern](http://en.wikipedia.org/wiki/Observer_pattern)
 * [Decorator Pattern](http://en.wikipedia.org/wiki/Decorator_pattern)
 
+## Slides
+
+* [Observer and Decorator]
