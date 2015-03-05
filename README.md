@@ -21,7 +21,6 @@ systems that are more extensible, easier to program, and debug.
 
 * [Observer Pattern](http://en.wikipedia.org/wiki/Observer_pattern)
 * [Decorator Pattern](http://en.wikipedia.org/wiki/Decorator_pattern)
-
-## Slides
-
-* [Observer and Decorator]
+* [Command Pattern](http://en.wikipedia.org/wiki/Command_pattern)
+* [Adaptive Pattern](http://en.wikipedia.org/wiki/Adapter_pattern)
+* [Design Patterns in Scala](https://pavelfatin.com/design-patterns-in-scala)
